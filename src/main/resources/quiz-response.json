@@ -1,0 +1,281 @@
+{
+  "cohortId": 3,
+  "cohortQuizAssignmentId": 102,
+  "quizId": 93,
+  "quizAttemptId": 593,
+  "noOfQuestion": 10,
+  "quizStartedAt": "2021-08-18 16:48:13",
+  "timeLimit": 30,
+  "quizDescription": "Abhi's fourth quiz",
+  "initiateTimeStamp": 1629305294658,
+  "quizQuestion": [
+    {
+      "questionNo": 1,
+      "questionId": 96,
+      "questionText": "An elevator weighing 6000 kg is pulled upward by a cable with an acceleration of 5ms<sup>-2</sup>. Taking g to be 10ms<sup>-2</sup>, then the tension in the cable is",
+      "optionSelected": 395,
+      "bookmarkedIndicator": false,
+      "quizQuestionAttemptId": 6051,
+      "quizOptions": [
+        {
+          "optionId": 395,
+          "optionText": "6000 N"
+        },
+        {
+          "optionId": 396,
+          "optionText": "9000 N"
+        },
+        {
+          "optionId": 397,
+          "optionText": "60000 N"
+        },
+        {
+          "optionId": 398,
+          "optionText": "90000 N"
+        }
+      ]
+    },
+    {
+      "questionNo": 2,
+      "questionId": 99,
+      "questionText": "A vehicle of 100 kg is moving with a velocity of 5 m/sec. To stop it in 1/10 sec, the required force in opposite direction is",
+      "optionSelected": 408,
+      "bookmarkedIndicator": false,
+      "quizQuestionAttemptId": 6052,
+      "quizOptions": [
+        {
+          "optionId": 407,
+          "optionText": "5000 N"
+        },
+        {
+          "optionId": 408,
+          "optionText": "500 N"
+        },
+        {
+          "optionId": 409,
+          "optionText": "50N"
+        },
+        {
+          "optionId": 410,
+          "optionText": "1000 N"
+        }
+      ]
+    },
+    {
+      "questionNo": 3,
+      "questionId": 102,
+      "questionText": "The ratio of the weight of a man in a stationary lift and when it is moving downward with uniform acceleration a is 3 : 2. The value of a is (g=Acceleration due to gravity of the earth)",
+      "optionSelected": 0,
+      "bookmarkedIndicator": true,
+      "quizQuestionAttemptId": 0,
+      "quizOptions": [
+        {
+          "optionId": 419,
+          "optionText": "3g/2"
+        },
+        {
+          "optionId": 420,
+          "optionText": "g/3"
+        },
+        {
+          "optionId": 421,
+          "optionText": "2g/3"
+        },
+        {
+          "optionId": 422,
+          "optionText": "g"
+        }
+      ]
+    },
+    {
+      "questionNo": 4,
+      "questionId": 126,
+      "questionText": "A car accelerates on a horizontal road due to the force exerted by the",
+      "optionSelected": 518,
+      "bookmarkedIndicator": false,
+      "quizQuestionAttemptId": 6053,
+      "quizOptions": [
+        {
+          "optionId": 515,
+          "optionText": "road on the car"
+        },
+        {
+          "optionId": 516,
+          "optionText": "engine of the car"
+        },
+        {
+          "optionId": 517,
+          "optionText": "car on the earth"
+        },
+        {
+          "optionId": 518,
+          "optionText": "driver of the car"
+        }
+      ]
+    },
+    {
+      "questionNo": 5,
+      "questionId": 178,
+      "questionText": "An air-tight cage with a parrot sitting in it is suspended from the spring balance. The parrot starts flying. The reading of the spring balance will",
+      "optionSelected": 0,
+      "bookmarkedIndicator": false,
+      "quizQuestionAttemptId": 0,
+      "quizOptions": [
+        {
+          "optionId": 724,
+          "optionText": "increase"
+        },
+        {
+          "optionId": 725,
+          "optionText": "decrease"
+        },
+        {
+          "optionId": 726,
+          "optionText": "not change"
+        },
+        {
+          "optionId": 727,
+          "optionText": "be zero"
+        }
+      ]
+    },
+    {
+      "questionNo": 6,
+      "questionId": 200,
+      "questionText": "A bird is in a wire cage hanging from a spring balance. The reading of the balance is taken when the bird is flying about in the cage, and when the bird is at rest in the cage. The first reading will be",
+      "optionSelected": 0,
+      "bookmarkedIndicator": false,
+      "quizQuestionAttemptId": 0,
+      "quizOptions": [
+        {
+          "optionId": 812,
+          "optionText": "much greater than the second"
+        },
+        {
+          "optionId": 813,
+          "optionText": "greater than the second"
+        },
+        {
+          "optionId": 814,
+          "optionText": "less than the second"
+        },
+        {
+          "optionId": 815,
+          "optionText": "same as the second"
+        }
+      ]
+    },
+    {
+      "questionNo": 7,
+      "questionId": 1619,
+      "questionText": "Which of the following is non-conservative force?",
+      "optionSelected": 0,
+      "bookmarkedIndicator": false,
+      "quizQuestionAttemptId": 0,
+      "quizOptions": [
+        {
+          "optionId": 6477,
+          "optionText": "Electrostatics force"
+        },
+        {
+          "optionId": 6478,
+          "optionText": "Gravitational force"
+        },
+        {
+          "optionId": 6479,
+          "optionText": "Viscous force"
+        },
+        {
+          "optionId": 6480,
+          "optionText": "Spring force"
+        }
+      ]
+    },
+    {
+      "questionNo": 8,
+      "questionId": 1848,
+      "questionText": "If a body is in equilibrium under the effect of some collinear forces, then the minimum number of such forces acting upon the body are",
+      "optionSelected": 0,
+      "bookmarkedIndicator": false,
+      "quizQuestionAttemptId": 0,
+      "quizOptions": [
+        {
+          "optionId": 7391,
+          "optionText": "3"
+        },
+        {
+          "optionId": 7392,
+          "optionText": "2"
+        },
+        {
+          "optionId": 7393,
+          "optionText": "5"
+        },
+        {
+          "optionId": 7394,
+          "optionText": "4"
+        }
+      ]
+    },
+    {
+      "questionNo": 9,
+      "questionId": 2905,
+      "questionText": "A cricket ball of mass 100 g strikes the hand of a player with a velocity of 20 m s-1 and is brought to rest in 0.01 s. Calculate : (i) the force applied by the hand of the player, (ii) the acceleration of the ball.",
+      "optionSelected": 0,
+      "bookmarkedIndicator": false,
+      "quizQuestionAttemptId": 0,
+      "quizOptions": [
+        {
+          "optionId": 12106,
+          "optionText": "200N, -2000m/s<sup>2</sup>",
+          "optionFormat": "TXT"
+        },
+        {
+          "optionId": 12107,
+          "optionText": "-200N, -2000m/s<sup>2</sup>",
+          "optionFormat": "TXT"
+        },
+        {
+          "optionId": 12108,
+          "optionText": "-200N, 2000m/s<sup>2</sup>",
+          "optionFormat": "TXT"
+        },
+        {
+          "optionId": 12109,
+          "optionText": "200N, 2000m/s<sup>2</sup>",
+          "optionFormat": "TXT"
+        }
+      ]
+    },
+    {
+      "questionNo": 10,
+      "questionId": 3894,
+      "questionText": "A truck starts from rest and rolls down a hill with a constant acceleration. It travels a distance of 400 m in 20 s. Find its acceleration. Find the force acting on it if it’s mass is 7 tonnes (Hint: 1 tonne = 1000 kg.)",
+      "optionSelected": 0,
+      "bookmarkedIndicator": false,
+      "quizQuestionAttemptId": 0,
+      "quizOptions": [
+        {
+          "optionId": 16325,
+          "optionText": "20 m/s and 140000N",
+          "optionFormat": "TXT"
+        },
+        {
+          "optionId": 16326,
+          "optionText": "2 m/s and 1400N",
+          "optionFormat": "TXT"
+        },
+        {
+          "optionId": 16327,
+          "optionText": "2 m/s and 14000N",
+          "optionFormat": "TXT"
+        },
+        {
+          "optionId": 16328,
+          "optionText": "None of these",
+          "optionFormat": "TXT"
+        }
+      ]
+    }
+  ]
+}
